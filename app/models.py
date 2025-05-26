@@ -7,7 +7,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 class Product:
-    def __init__(self,product_id,product_name,opinions, stats):
+    def __init__(self,product_id,product_name="",opinions=[], stats={}):
         self.opinion_id = product_id
         self.product_name = product_name
         self.opinions = opinions
