@@ -10,12 +10,12 @@ def index():
  
 @app.route("/extract")
 def display_form():
-    form = ProdyctIdForm()
+    form = ProductIdForm()
     return render_template("extract.html", form=form)
  
 @app.route("/extract", methods=['POST'])
 def extract():
-    form = ProdyctIdForm(request.form)
+    form = ProductIdForm(request.form)
     if form.validate():
        product_id = form.product_id.data
        product = Product(product_id) 

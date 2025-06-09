@@ -1,0 +1,53 @@
+{
+    "product_id": "179521287",
+    "product_name": "Samsung Galaxy S25 Ultra SM-S938 12/256GB Niebieski",
+    "stats": {
+        "opinions_count": 10,
+        "pros_count": 7,
+        "cons_count": 2,
+        "pros_cons_count": 2,
+        "average_stars": 4.6,
+        "pros": {
+            "ease of use": 7,
+            "appearance": 7,
+            "functionality": 6,
+            "battery life": 6,
+            "fast": 5,
+            "apparatus": 4,
+            "handy": 4,
+            "charging speed": 2,
+            "AI functions": 2,
+            "multitasking": 2,
+            "reheated cameras": 1,
+            "cut-out s-pen": 1,
+            "great and heavy": 1,
+            "Free charging 25W": 1
+        },
+        "cons": {
+            "apparatus": 1,
+            "cut-out s-pen": 1,
+            "handy": 1,
+            "great and heavy": 1,
+            "battery life": 1,
+            "functionality": 1,
+            "charging speed": 1
+        },
+        "recommendations": {
+            "true": 9,
+            "false": 0,
+            "NaN": 0
+        },
+        "stars": {
+            "0.5": 0,
+            "1.0": 0,
+            "1.5": 0,
+            "2.0": 0,
+            "2.5": 0,
+            "3.0": 1,
+            "3.5": 0,
+            "4.0": 1,
+            "4.5": 2,
+            "5.0": 6
+        }
+    }
+}

@@ -4,7 +4,7 @@ import os
 def translate_data(text,source="pl", target="en"):
     return GoogleTranslator(source,target).translate(text)
 
-def extract(ancestor, selector=None,attribute=None, multiple=False):
+def extract_data(ancestor, selector=None,attribute=None, multiple=False):
     if selector:
         if multiple:
             if attribute:
